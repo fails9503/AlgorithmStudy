@@ -1,4 +1,4 @@
-package 알고리즘;
+package Algorithm;
 
 public class PrimeNumber {
 
